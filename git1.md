@@ -106,7 +106,7 @@ Git 支持多种数据传输协议。 上面的例子使用的是 `https://` 协
 
 ### 文件的状态变化周期
 
-![lifecycle](.\imgs\lifecycle.png)
+![lifecycle](\imgs\lifecycle.png)
 
 ```bash
 # 检查当前文件状态
@@ -265,7 +265,7 @@ git checkout master
 git merge experiment
 ```
 
-![工作流](.\imgs\git2.jpg)
+![工作流](\imgs\git2.jpg)
 
 ## 远程仓库的使用
 
@@ -297,7 +297,7 @@ git remote remove <remote>
 git push origin --delete serverfix
 ```
 
-![常用命令示意图](.\imgs\git1.jpg)
+![常用命令示意图](\imgs\git1.jpg)
 
 ### 免密码登录
 
